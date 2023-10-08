@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Hardstyle Daily',
+					link: 'https://open.spotify.com/playlist/37i9dQZF1E39gJ01mJXUPb?si=1d871381ec814fca',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Exo-Lennox',
+					link: 'https://open.spotify.com/playlist/7FrDOgiDNmImODbh9HlBC1?si=b2649c271fa74eba',
 				},
 				{
 					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://open.spotify.com/playlist/37i9dQZF1E389lUmIpduJy?si=10f56c4218844a94',
 				},
 				{
 					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://open.spotify.com/playlist/37i9dQZF1E38ieg9aoxb8D?si=a57089f8a5984782',
 				},
 			],
 		},
@@ -165,16 +165,16 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
-				},
-				{
 					name: 'Trello',
 					link: 'https://www.trello.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Wormax',
+					link: 'https://www.wormax.io',
+				},
+				{
+					name: 'Gota',
+					link: 'https://www.gota.io/web',
 				},
 			],
 		},
