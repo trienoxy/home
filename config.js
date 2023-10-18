@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Exo',
+	name: 'Trienoxy',
 	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
