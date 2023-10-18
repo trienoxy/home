@@ -139,8 +139,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Hardstyle Daily',
-					link: 'https://open.spotify.com/playlist/37i9dQZF1E39gJ01mJXUPb?si=1d871381ec814fca',
+					name: 'Hardstyle',
+					link: 'https://open.spotify.com/playlist/6uwf5iUb8cYJABFbMSfjXl?si=824b332b819243fe',
 				},
 				{
 					name: 'Exo-Lennox',
